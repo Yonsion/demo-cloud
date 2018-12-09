@@ -17,6 +17,7 @@
         <module>demo-provider2</module>
         <module>demo-ribbon</module>
         <module>demo-feign</module>
+        <module>demo-profile</module>
     </modules>
 
 
