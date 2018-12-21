@@ -18,6 +18,7 @@
         <module>demo-ribbon</module>
         <module>demo-feign</module>
         <module>demo-profile</module>
+        <module>demo-oauth2-server</module>
     </modules>
 
 
